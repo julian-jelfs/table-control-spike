@@ -1,0 +1,27 @@
+{
+  "name": "table-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "antd": "^4.6.4",
+    "cors": "^2.8.5",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
